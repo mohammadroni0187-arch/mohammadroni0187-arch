@@ -1,77 +1,89 @@
-<h1 align="center">Hi 👋, I'm Md. Roni</h1>
+<div align="center">
 
-<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript</h3>
+# 👋 Hi, I'm Md. Roni
 
-<p align="center">
+### 💻 Frontend Developer | React.js | Next.js | TypeScript
+
+<p>
   <a href="https://github.com/mohammadroni0187-arch">
-    <img src="https://komarev.com/ghpvc/?username=mohammadroni0187-arch&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-roni-2034733a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohammadroni0187@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+</div>
+
 ---
 
-## 👨‍💻 About Me
+## 🌐 About Me
 
 I'm a **Frontend Developer** passionate about building responsive, modern, and user-friendly web applications.
 
-* 🌱 Currently learning **Next.js, TypeScript, and Advanced React**
-* 💻 Focused on **Frontend Development**
-* 🎨 Interested in creating clean and responsive UI
-* 🔧 Building projects with **React, TypeScript, Tailwind CSS, and Next.js**
-* 📚 Learning through hands-on projects and continuous practice
-* 🚀 Working toward becoming a professional frontend developer
+I enjoy turning ideas and designs into clean, functional interfaces using modern frontend technologies. I'm continuously improving my skills through practical projects and hands-on development.
+
+* 🌱 Currently exploring **Next.js, TypeScript, and Advanced React**
+* 🔨 Building practical projects with **React.js and Next.js**
+* 🎨 Interested in creating **clean and responsive UI**
+* 📚 Improving my knowledge of **APIs, data fetching, and modern frontend development**
+* 🚀 Working toward becoming a professional **Frontend Developer**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Technologies
+
+### 💻 Languages
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
   </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
   </a>
+</p>
 
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+### ⚛️ Frontend
+
+<p align="left">
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React.js"/>
   </a>
-
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/>
+  <a href="https://nextjs.org/">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/>
   </a>
-
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
+  <a href="https://tailwindcss.com/">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
   </a>
+</p>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+### 🔧 Tools
+
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <a href="https://github.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
   </a>
-
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
+  <a href="https://www.figma.com/">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
   </a>
-
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  <a href="https://www.postman.com/">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
   </a>
 </p>
 
@@ -81,108 +93,96 @@ I'm a **Frontend Developer** passionate about building responsive, modern, and u
 
 ### 💻 Tech Stack Manager
 
-A React + TypeScript application for managing a personal technology stack.
+A React + TypeScript application that allows users to manage their preferred technologies and build their personal tech stack.
 
-**Features:**
+**Key Features**
 
-* Add technologies
-* Prevent duplicate entries
-* Remove technologies
-* Responsive design
+* ➕ Add technologies to stack
+* 🚫 Prevent duplicate technologies
+* 🗑️ Remove technologies
+* 📱 Responsive user interface
 
-**Tech:** React.js • TypeScript • Tailwind CSS
+**Tech Stack:** React.js • TypeScript • Tailwind CSS
+
+🔗 **Live Demo:** `YOUR_LIVE_DEMO_URL`
+📂 **Repository:** `YOUR_GITHUB_REPO_URL`
 
 ---
 
 ### 🏏 Dream 11 Cricket Team
 
-A React-based cricket team selection application where users can select players and build their own team.
+A React-based cricket team management application where users can select players and build their own Dream 11 team.
 
-**Features:**
+**Key Features**
 
-* Player selection
-* Team management
-* Player information
-* Responsive UI
+* 🏏 Player selection
+* 👥 Team management
+* 💰 Player price information
+* 📱 Responsive design
 
-**Tech:** React.js • JavaScript • Tailwind CSS
+**Tech Stack:** React.js • JavaScript • Tailwind CSS
+
+🔗 **Live Demo:** `YOUR_LIVE_DEMO_URL`
+📂 **Repository:** `YOUR_GITHUB_REPO_URL`
 
 ---
 
 ### 🌐 Developer Conference Website
 
-A responsive conference website with a modern layout, navigation, hero section, event information, and registration-focused UI.
+A responsive conference website created with HTML, CSS, and JavaScript. The website includes a modern hero section, navigation, event information, and registration-focused UI.
 
-**Tech:** HTML5 • CSS3 • JavaScript
+**Tech Stack:** HTML5 • CSS3 • JavaScript
 
-🔗 **Live Demo:**
-https://mohammadroni0187-arch.github.io/Assignment/
-
-🔗 **GitHub:**
-https://github.com/mohammadroni0187-arch/Assignment
+🔗 **Live Demo:** https://mohammadroni0187-arch.github.io/Assignment/
+📂 **Repository:** https://github.com/mohammadroni0187-arch/Assignment
 
 ---
 
-## 🎯 Current Learning Path
-
-```text
-HTML & CSS
-     ↓
-JavaScript
-     ↓
-React.js
-     ↓
-TypeScript
-     ↓
-Next.js
-     ↓
-APIs & Data Fetching
-     ↓
-Full-Stack Development
-```
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadroni0187-arch&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadroni0187-arch&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadroni0187-arch" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadroni0187-arch&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadroni0187-arch&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadroni0187-arch&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 GitHub Trophies
 
-<p align="left">
-  <a href="https://github.com/mohammadroni0187-arch" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/md-roni-2034733a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:mohammadroni0187@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadroni0187-arch&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
-
-📫 **Email:** [mohammadroni0187@gmail.com](mailto:mohammadroni0187@gmail.com)
 
 ---
 
-## ⭐ Thanks for Visiting My Profile!
-
-I'm continuously **learning, building, and improving** as a frontend developer.
+## 📈 Contribution Activity
 
 <p align="center">
-  <b>Let's build something great together! 🚀</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadroni0187-arch&hide_border=true" alt="Contribution Graph" />
 </p>
+
+---
+
+## 📫 Contact Me
+
+* 📍 **Location:** Dhaka, Bangladesh
+* 📧 **Email:** [mohammadroni0187@gmail.com](mailto:mohammadroni0187@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/md-roni-2034733a2/
+* 🐙 **GitHub:** https://github.com/mohammadroni0187-arch
+
+---
+
+<div align="center">
+
+### 🚀 Always Learning. Always Building.
+
+**Thanks for visiting my profile! 👋**
+
+</div>
