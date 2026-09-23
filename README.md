@@ -41,6 +41,8 @@ I enjoy turning ideas and designs into clean, functional interfaces using modern
 * 🎨 Interested in creating **clean and responsive UI**
 * 📚 Improving my knowledge of **APIs, data fetching, and modern frontend development**
 * 🚀 Working toward becoming a professional **Frontend Developer**
+* - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/md-roni-2034733a2/)**
+- 📫 Feel free to reach me out **[Email](mohammadroni0187@gmail.com)**
 
 ---
 
