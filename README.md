@@ -147,7 +147,12 @@ A responsive conference website created with HTML, CSS, and JavaScript. The webs
 📂 **Repository:** https://github.com/mohammadroni0187-arch/Assignment
 
 ---
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+
+<!--- statistics --->
 ## 📊 GitHub Statistics
 
 <p align="center">
