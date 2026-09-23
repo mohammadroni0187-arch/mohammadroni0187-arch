@@ -41,8 +41,8 @@ I enjoy turning ideas and designs into clean, functional interfaces using modern
 * 🎨 Interested in creating **clean and responsive UI**
 * 📚 Improving my knowledge of **APIs, data fetching, and modern frontend development**
 * 🚀 Working toward becoming a professional **Frontend Developer**
-* - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/md-roni-2034733a2/)**
-- 📫 Feel free to reach me out **[Email](mohammadroni0187@gmail.com)**
+* 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/md-roni-2034733a2/)**
+* 📫 Feel free to reach me out **[Email](mohammadroni0187@gmail.com)**
 
 ---
 
@@ -134,8 +134,6 @@ A React-based cricket team management application where users can select players
 
 **Tech Stack:** React.js • JavaScript • Tailwind CSS
 
-🔗 **Live Demo:** `YOUR_LIVE_DEMO_URL`
-📂 **Repository:** `YOUR_GITHUB_REPO_URL`
 
 ---
 
@@ -145,8 +143,6 @@ A responsive conference website created with HTML, CSS, and JavaScript. The webs
 
 **Tech Stack:** HTML5 • CSS3 • JavaScript
 
-🔗 **Live Demo:** https://mohammadroni0187-arch.github.io/Assignment/
-📂 **Repository:** https://github.com/mohammadroni0187-arch/Assignment
 
 ---
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
