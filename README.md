@@ -186,9 +186,9 @@ A responsive conference website created with HTML, CSS, and JavaScript. The webs
 ## 📫 Contact Me
 
 * 📍 **Location:** Dhaka, Bangladesh
-* 📧 **Email:** [mohammadroni0187@gmail.com](mailto:mohammadroni0187@gmail.com)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/md-roni-2034733a2/
-* 🐙 **GitHub:** https://github.com/mohammadroni0187-arch
+* 📧 **[Email](mohammadroni0187@gmail.com)**
+* 💼 **[LinkedIn](https://www.linkedin.com/in/md-roni-2034733a2/)
+* 🐙 **[GitHub](https://github.com/mohammadroni0187-arch)
 
 ---
 
