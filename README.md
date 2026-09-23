@@ -1,5 +1,9 @@
 <div align="center">
+<div align="center">
 
+<img src="./github-banner.png" width="100%" />
+
+</div>
 # 👋 Hi, I'm Md. Roni
 
 ### 💻 Frontend Developer | React.js | Next.js | TypeScript
