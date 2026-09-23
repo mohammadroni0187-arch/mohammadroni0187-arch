@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
 
-<img src="./github-banner.png" width="100%" />
+<img src="Banner.png" width="100%" />
 
 </div>
 # 👋 Hi, I'm Md. Roni
