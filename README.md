@@ -116,8 +116,6 @@ A React + TypeScript application that allows users to manage their preferred tec
 
 **Tech Stack:** React.js • TypeScript • Tailwind CSS
 
-🔗 **Live Demo:** `YOUR_LIVE_DEMO_URL`
-📂 **Repository:** `YOUR_GITHUB_REPO_URL`
 
 ---
 
@@ -187,8 +185,8 @@ A responsive conference website created with HTML, CSS, and JavaScript. The webs
 
 * 📍 **Location:** Dhaka, Bangladesh
 * 📧 **[Email](mohammadroni0187@gmail.com)**
-* 💼 **[LinkedIn](https://www.linkedin.com/in/md-roni-2034733a2/)
-* 🐙 **[GitHub](https://github.com/mohammadroni0187-arch)
+* 💼 **[LinkedIn](https://www.linkedin.com/in/md-roni-2034733a2/)**
+* 🐙 **[GitHub](https://github.com/mohammadroni0187-arch)**
 
 ---
 
