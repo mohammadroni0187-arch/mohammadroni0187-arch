@@ -134,7 +134,6 @@ A React-based cricket team management application where users can select players
 
 ** Description :A React-based cricket team management application where users can select players, manage their team, and view player information in a responsive interface.
 
-
 **Tech Stack:** React.js • JavaScript • Tailwind CSS
 
 
@@ -145,6 +144,7 @@ A React-based cricket team management application where users can select players
 A responsive conference website created with HTML, CSS, and JavaScript. The website includes a modern hero section, navigation, event information, and registration-focused UI.
 
 ** Description : A responsive developer conference website built with HTML, CSS, and JavaScript, featuring event information, modern UI, navigation, and registration-focused sections.
+
 **Tech Stack:** HTML5 • CSS3 • JavaScript
 
 
