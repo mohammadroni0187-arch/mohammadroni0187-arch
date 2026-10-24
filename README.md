@@ -134,6 +134,7 @@ A React-based cricket team management application where users can select players
 
 ** Description :A React-based cricket team management application where users can select players, manage their team, and view player information in a responsive interface.
 
+
 **Tech Stack:** React.js • JavaScript • Tailwind CSS
 
 
