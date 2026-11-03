@@ -10,7 +10,7 @@
 
 Building modern, responsive, and user-friendly web applications.
 
-<a href="https://git.io/typing-svg">
+<a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Next.js+Developer;TypeScript+Enthusiast;Passionate+About+Building+Web+Apps" alt="Typing SVG" />
 </a>
 
@@ -42,7 +42,7 @@ I enjoy transforming ideas and designs into functional web experiences using mod
 - 🔌 Working with REST APIs and dynamic data integration
 - 🎨 Passionate about clean UI/UX and modern web design
 - 🚀 Continuously improving my problem-solving and development skills
-- 📫 Reach me at: **mohammadroni0187@gmail.com**
+- 📫 Reach me at: [mohammadroni0187@gmail.com](mailto:mohammadroni0187@gmail.com)
 
 ---
 
@@ -74,99 +74,89 @@ I enjoy transforming ideas and designs into functional web experiences using mod
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Popular Repositories
 
-### 1. 🌐 My Portfolio
+Here are some of my featured projects and repositories.
 
-A modern personal portfolio website showcasing my skills, projects, and experience as a Frontend Developer.
-
-**Key Features**
-- Modern and responsive design
-- Professional hero section
-- Skills and technology showcase
-- Featured projects section
-- Contact information
-
-**Tech Stack:** Next.js • React.js • TypeScript • Tailwind CSS
-
-🔗 **Live Demo:** [View Portfolio](https://my-portfolio-evwhpv3zm-md-roni2.vercel.app/)
+<table>
+<tr>
+<td width="50%">
+<h3>🛒 BazerDor</h3>
+<p>A modern e-commerce web application focused on providing a user-friendly shopping experience.</p>
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,mongodb" />
+</p>
+<a href="https://github.com/mohammadroni0187-arch/bazer-dor-web-site">View Repository →</a>
+</td>
+<td width="50%">
+<h3>📚 Online Library</h3>
+<p>A web application for exploring and managing an online collection of books.</p>
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+</p>
+<a href="https://github.com/mohammadroni0187-arch/online-library">View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🌐 My Portfolio</h3>
+<p>A personal developer portfolio showcasing my skills, projects, and development journey.</p>
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+</p>
+<a href="https://github.com/mohammadroni0187-arch/my-portfolio">View Repository →</a>
+</td>
+<td width="50%">
+<h3>🏋️ FitLog</h3>
+<p>A workout management application featuring workout browsing, dynamic details, and workout planning.</p>
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+</p>
+<a href="https://github.com/mohammadroni0187-arch/fit-log-app">View Repository →</a>
+</td>
+</tr>
+</table>
 
 ---
 
-### 2. 🏋️ FitLog – Workout Management Application
+## 🚀 Featured Projects
+
+### 🌐 My Portfolio
+A modern personal portfolio website showcasing my skills, projects, and experience.
+
+**Tech Stack:** Next.js • React.js • TypeScript • Tailwind CSS
+
+🔗 [Live Demo](https://my-portfolio-evwhpv3zm-md-roni2.vercel.app/) | [GitHub Repository](https://github.com/mohammadroni0187-arch/my-portfolio)
+
+---
+
+### 🏋️ FitLog – Workout Management Application
 
 A workout management application designed to help users explore workouts and organize their fitness activities.
 
-**Key Features**
-- Workout library
-- Dynamic workout details
-- Workout planning functionality
-- Responsive user interface
-- Interactive user experience
-
 **Tech Stack:** Next.js • React.js • TypeScript • Tailwind CSS
 
-🔗 **Live Demo:** [View FitLog](https://fit-log-c53vajaob-md-roni2.vercel.app/)
+🔗 [Live Demo](https://fit-log-c53vajaob-md-roni2.vercel.app/) | [GitHub Repository](https://github.com/mohammadroni0187-arch/fit-log-app)
 
 ---
 
-### 3. 🛒 BazerDor – E-commerce Web Application
+### 🛒 BazerDor – E-commerce Web Application
 
 A modern e-commerce web application focused on providing a user-friendly online shopping experience.
 
-**Key Features**
-- Modern shopping interface
-- Product-focused UI
-- Responsive layout
-- Dynamic web experience
-- User-friendly navigation
-
 **Tech Stack:** Next.js • React.js • TypeScript • MongoDB
 
-🔗 **Live Demo:** [Visit BazerDor](https://bazer-dor-web-site-enhpa3inf-md-roni2.vercel.app/)
+🔗 [Live Demo](https://bazer-dor-web-site-enhpa3inf-md-roni2.vercel.app/) | [GitHub Repository](https://github.com/mohammadroni0187-arch/bazer-dor-web-site)
 
 ---
 
-### 4. 💻 Tech Stack Manager
+### 📚 Online Library
 
-A React and TypeScript application that allows users to manage their preferred technologies and build a personal tech stack.
+A web application for browsing and exploring books through an online library interface.
 
-**Key Features**
-- Add technologies to stack
-- Prevent duplicate technologies
-- Remove selected technologies
-- Responsive user interface
+**Tech Stack:** Next.js • React.js • TypeScript
 
-**Tech Stack:** React.js • TypeScript • Tailwind CSS
-
----
-
-### 5. 🏏 Dream 11 Cricket Team
-
-A React-based cricket team management application where users can select players and build their own Dream 11 team.
-
-**Key Features**
-- Player selection
-- Team management
-- Player price information
-- Responsive design
-
-**Tech Stack:** React.js • JavaScript • Tailwind CSS
-
----
-
-### 6. 🎤 Developer Conference Website
-
-A responsive developer conference website featuring event information, speakers, schedules, and registration-focused sections.
-
-**Key Features**
-- Modern hero section
-- Responsive navigation
-- Speaker showcase
-- Event schedule
-- Registration-focused UI
-
-**Tech Stack:** HTML5 • CSS3 • JavaScript
+🔗 [GitHub Repository](https://github.com/mohammadroni0187-arch/online-library)
 
 ---
 
