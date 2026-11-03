@@ -1,18 +1,18 @@
+ 
 <div align="center">
-<!--- banner --->
-<img src="Banner.png" width="100%" />
 
-  <!--- title --->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block"># 👋 Hi, I'm Md. Roni</h1></summary>
-    <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
-  </ul>
-</div>
+<!-- Banner -->
+<img src="Banner.png" width="100%" alt="Md. Roni GitHub Banner" />
 
+# 👋 Hi, I'm Md. Roni
 
-### 💻 Frontend Developer | React.js | Next.js | TypeScript
+### Frontend Developer | React.js | Next.js | TypeScript
+
+Building modern, responsive, and user-friendly web applications.
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Next.js+Developer;TypeScript+Enthusiast;Passionate+About+Building+Web+Apps" alt="Typing SVG" />
+</a>
 
 <p>
   <a href="https://github.com/mohammadroni0187-arch">
@@ -30,176 +30,222 @@
 
 ---
 
-## 🌐 About Me
+## 👨‍💻 About Me
 
-I'm a **Frontend Developer** passionate about building responsive, modern, and user-friendly web applications.
+I'm a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas and designs into clean, functional interfaces using modern frontend technologies. I'm continuously improving my skills through practical projects and hands-on development.
+I enjoy transforming ideas and designs into functional web experiences using modern frontend technologies. I love learning new technologies, solving problems, and improving my development skills through real-world projects.
 
-* 🌱 Currently exploring **Next.js, TypeScript, and Advanced React**
-* 🔨 Building practical projects with **React.js and Next.js**
-* 🎨 Interested in creating **clean and responsive UI**
-* 📚 Improving my knowledge of **APIs, data fetching, and modern frontend development**
-* 🚀 Working toward becoming a professional **Frontend Developer**
-* 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/md-roni-2034733a2/)**
-* 📫 Feel free to reach me out **[Email](mohammadroni0187@gmail.com)**
+- 🔭 Currently building web applications with **React.js and Next.js**
+- 🌱 Exploring **Advanced React, Next.js, TypeScript, and Full-Stack Development**
+- 💻 Experienced in developing responsive and reusable UI components
+- 🔌 Working with REST APIs and dynamic data integration
+- 🎨 Passionate about clean UI/UX and modern web design
+- 🚀 Continuously improving my problem-solving and development skills
+- 📫 Reach me at: **mohammadroni0187@gmail.com**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  </a>
-  <a href="https://www.w3.org/html/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-### ⚛️ Frontend
+### ⚛️ Frontend Development
 
 <p align="left">
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React.js"/>
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,daisyui" />
 </p>
 
-### 🔧 Tools
+### 🔧 Backend & Database
 
 <p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vercel" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💻 Tech Stack Manager
+### 1. 🌐 My Portfolio
 
-A React + TypeScript application that allows users to manage their preferred technologies and build their personal tech stack.
+A modern personal portfolio website showcasing my skills, projects, and experience as a Frontend Developer.
 
 **Key Features**
+- Modern and responsive design
+- Professional hero section
+- Skills and technology showcase
+- Featured projects section
+- Contact information
 
-* ➕ Add technologies to stack
-* 🚫 Prevent duplicate technologies
-* 🗑️ Remove technologies
-* 📱 Responsive user interface
+**Tech Stack:** Next.js • React.js • TypeScript • Tailwind CSS
 
-**Description : A responsive React and TypeScript application for managing personal technology stacks, with features to add, remove, and organize preferred technologies.
-
-**Tech Stack:** React.js • TypeScript • Tailwind CSS
-
+🔗 **Live Demo:** [View Portfolio](https://my-portfolio-evwhpv3zm-md-roni2.vercel.app/)
 
 ---
 
-### 🏏 Dream 11 Cricket Team
+### 2. 🏋️ FitLog – Workout Management Application
+
+A workout management application designed to help users explore workouts and organize their fitness activities.
+
+**Key Features**
+- Workout library
+- Dynamic workout details
+- Workout planning functionality
+- Responsive user interface
+- Interactive user experience
+
+**Tech Stack:** Next.js • React.js • TypeScript • Tailwind CSS
+
+🔗 **Live Demo:** [View FitLog](https://fit-log-c53vajaob-md-roni2.vercel.app/)
+
+---
+
+### 3. 🛒 BazerDor – E-commerce Web Application
+
+A modern e-commerce web application focused on providing a user-friendly online shopping experience.
+
+**Key Features**
+- Modern shopping interface
+- Product-focused UI
+- Responsive layout
+- Dynamic web experience
+- User-friendly navigation
+
+**Tech Stack:** Next.js • React.js • TypeScript • MongoDB
+
+🔗 **Live Demo:** [Visit BazerDor](https://bazer-dor-web-site-enhpa3inf-md-roni2.vercel.app/)
+
+---
+
+### 4. 💻 Tech Stack Manager
+
+A React and TypeScript application that allows users to manage their preferred technologies and build a personal tech stack.
+
+**Key Features**
+- Add technologies to stack
+- Prevent duplicate technologies
+- Remove selected technologies
+- Responsive user interface
+
+**Tech Stack:** React.js • TypeScript • Tailwind CSS
+
+---
+
+### 5. 🏏 Dream 11 Cricket Team
 
 A React-based cricket team management application where users can select players and build their own Dream 11 team.
 
 **Key Features**
-
-* 🏏 Player selection
-* 👥 Team management
-* 💰 Player price information
-* 📱 Responsive design
-
-** Description :A React-based cricket team management application where users can select players, manage their team, and view player information in a responsive interface.
+- Player selection
+- Team management
+- Player price information
+- Responsive design
 
 **Tech Stack:** React.js • JavaScript • Tailwind CSS
 
-
 ---
 
-### 🌐 Developer Conference Website
+### 6. 🎤 Developer Conference Website
 
-A responsive conference website created with HTML, CSS, and JavaScript. The website includes a modern hero section, navigation, event information, and registration-focused UI.
+A responsive developer conference website featuring event information, speakers, schedules, and registration-focused sections.
 
-** Description : A responsive developer conference website built with HTML, CSS, and JavaScript, featuring event information, modern UI, navigation, and registration-focused sections.
+**Key Features**
+- Modern hero section
+- Responsive navigation
+- Speaker showcase
+- Event schedule
+- Registration-focused UI
 
 **Tech Stack:** HTML5 • CSS3 • JavaScript
 
-
 ---
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### GitHub Contributions:
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
-
-<!--- statistics --->
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadroni0187-arch&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadroni0187-arch&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammadroni0187-arch&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadroni0187-arch&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadroni0187-arch&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+<br />
 
-## 🏆 GitHub Trophies
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadroni0187-arch&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadroni0187-arch&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadroni0187-arch&hide_border=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadroni0187-arch&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
-## 📫 Contact Me
+## 🐍 Contribution Snake
 
-* 📍 **Location:** Dhaka, Bangladesh
-* 📧 **[Email](mohammadroni0187@gmail.com)**
-* 💼 **[LinkedIn](https://www.linkedin.com/in/md-roni-2034733a2/)**
-* 🐙 **[GitHub](https://github.com/mohammadroni0187-arch)**
+<div align="center">
+
+<img src="https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg" width="100%" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammadroni0187-arch&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
+
+<a href="mailto:mohammadroni0187@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-roni-2034733a2/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/mohammadroni0187-arch">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+📍 **Location:** Bangladesh
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Always Learning. Always Building.
+### 🚀 Always Learning. Always Building. Always Growing.
 
-**Thanks for visiting my profile! 👋**
+**Thanks for visiting my GitHub profile!**
+
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
