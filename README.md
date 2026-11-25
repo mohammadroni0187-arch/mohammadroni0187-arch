@@ -42,7 +42,7 @@ I like turning ideas into real products, learning by shipping projects, and writ
 |  |  |
 | :-- | :-- |
 | 🔭 **Currently building** | Full-stack apps with Next.js, Node.js, Express & MongoDB |
-| 🌱 **Learning** | Advanced React, Next.js, TypeScript and system design |
+| 🌱 **Learning** |  React, Next.js, TypeScript and system design |
 | 🔐 **Working with** | Authentication (Better Auth, JWT), payments (Stripe) and REST APIs |
 | 🎨 **Passionate about** | Clean UI/UX and accessible, responsive design |
 | 📍 **Location** | Bangladesh |
